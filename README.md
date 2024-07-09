@@ -9,5 +9,5 @@ Models tried so far:
 - U-net
 
 Models to try next:
-- YOLOv8 (pre-trained & fine-tuning)
+- SegFormer3D
 - ...
